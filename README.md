@@ -4,7 +4,7 @@
   <img src="github-image.png" alt="YA-360 Icon Pack" width="100%">
 </p>
 
-Her iki özgün SVG için 15 renk varyasyonu...
+15 color variations for both original SVGs...
 
 # Yandex Mail Avatar Icons — 2025–2026 Color Variants
 
