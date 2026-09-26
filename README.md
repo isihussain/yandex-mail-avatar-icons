@@ -1,3 +1,11 @@
+# YA-360 Icon Pack
+
+<p align="center">
+  <img src="github-image.png" alt="YA-360 Icon Pack" width="100%">
+</p>
+
+Her iki özgün SVG için 15 renk varyasyonu...
+
 # Yandex Mail Avatar Icons — 2025–2026 Color Variants
 
 A collection of 30 reusable 32×32 SVG mail avatar icons based on the Yandex Mail-style avatar icon designs used and referenced in 2025–2026 email interface workflows.
